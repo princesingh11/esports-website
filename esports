@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="website.css">
+  <title>E-SPORTS</title>
+</head>
+<body>
+  <div class="main">
+  <div class="container">
+    <div class="child">
+      <h1>E-SPORTS</h1>
+      <p>Esports, short for electronic sports, is a form of competition using video games.Esports often takes the form of organized, multiplayer video game competitions, particularly between professional players, individually or as teams. Although organized competitions have long been a part of video game culture, these were largely between amateurs until the late 2000s, when participation by professional gamers and spectatorship in these events through live streaming saw a large surge in popularity.By the 2010s, esports was a significant factor in the video game industry, with many game developers actively designing and providing funding for tournaments and other events.</p>
+      <div class="next-img">
+        <img src="Images/counter strike.png" width="1500px" height="700px">
+      </div>
+    </div>
+    <div class="child-1">
+      <h2>E-SPORTS AS A PROFESSION</h2>
+      <p>The status of gaming and esports globally has transformed over the last decade. It has shown a staggering CAGR of 38% and has become a $1.8 billion sunrise sector in India as per BCG-Sequoia’s 2021 report, where esports in particular is a nascent but fast growing ~$100 million market currently. According to EY’s Dawn of Esports 2021 report, the Indian esports ecosystem is expected to grow to 1.5 Mn players by 2025 with 85 million unique viewers, a 5X jump from the current 17 million Esports will generate an economic value of around USD 13 Bn between 2021 and 2025, comprising investments, in-app purchases, winnings, taxes, and related consumption.</p>
+    </div>
+    <div class="child-2">
+      <h2>For More Information</h2>
+      <br>
+      <h3>Visit Here &#8594;</h3>
+      <a href="https://en.wikipedia.org/wiki/Esports">E-Sports | Wikipedia</a>
+      <a href="https://www.youtube.com/watch?v=m0zWiUGrzBk&ab_channel=IAmYourTargetDemographic">
+        What are Esports ?
+      </a>
+      <a href="https://www.youtube.com/watch?v=rJ1iA-33fss&ab_channel=ApnaCollege">Start Your Carieer As A Game developers</a>
+
+    </div>
+    <div class="child-3">
+    </center><br>
+    <hr>
+    <hr>
+    <center>
+        
+    <div>
+        <h1>Some of the famous eSports streamers are:</h1>
+        <table style="font-size: 30px; border: 2px solid black;">
+            <tr >
+              <th>PlayerID</th>
+              <th>Player name</th>
+              <th>Total(last 30 days)</th>
+            </tr>
+            <tr >
+              <td>N0tail</td>
+              <td>	Johan Sundstein</td>
+              <td>$7,184,163.05</td>
+            </tr>
+            <tr >
+              <td> JerAx</td>
+              <td>	Jesse Vainikka</td>
+              <td>$6,486,948.78</td>
+            </tr >
+            
+            <tr >
+                <td> ana</td>
+                <td>Anatham Pham</td>
+                <td>$6,024,411.96</td>
+              </tr>
+          <!-- </table> -->
+          
+          <tr>
+            <td> ceb</td>
+            <td>Sebastian debs</td>
+            <td>$5,823,909.40</td>
+          </tr>
+      <!-- </table> -->
+      
+      <tr>
+        <td>Topson</td>
+        <td>Topias Taavitsainen</td>
+        <td>$6,024,411.96</td>
+      </tr>
+    </table>
+         
+    </div>
+    
+    <br>
+    <img src="https://hdqwalls.com/download/pubg-poster-art-4k-gb-2560x1440.jpg" width="600" height="500" alt="connect to internet">
+    <img src="https://th.bing.com/th/id/OIP.ke-m8YpbA7WvB7JMxhENFwHaE5?pid=ImgDet&rs=1" width="600" height="500" alt="connect to internet">
+    </center>
+    <center><h1>HOW TO START CAREER E-SPORT : FOR BEGINNER </h1> </center>
+    <ol type="I">
+    <li> <h2>Find Your Motivation. As with anything in life, it's important to play Esports for the right reasons.</h2></li>
+        <li> <h2>Pick Your Game. The next step is to find your game.</h2></li>
+        <li> <h2>Join the Community. As much as pro gaming is about individual talent, it's also about the culture surrounding the game.</h2></li>
+        <li> <h2>Make sure you're playing on the right gear, starting with a good gaming mouse, and mechanical keyboard. There are a lot of options when it comes to peripherals — varying in size, form factor, and sensitivity — but it's best to choose the one that works for you.</h2></li>
+        <li> <h2>With in-game matchmaking and premium third-party matchmaking services like ESEA, its easy to find people to play against. But if you want to win, youll need to practice.</h2></li>
+        <li> <h2>While the grind mentality looms large in Esports, pros must learn how to balance their practice regimen and off-screen activities. According to professional gamers we interviewed, a holistic approach to practice — including proper nutrition, exercise, and an active social life — improves mental focus and prevents burnout. Maintaining a healthy lifestyle will allow you to stay motivated for long enough to develop the skills that will ultimately attract pro organizations.</h2></li>
+    </ol>
+    <br>+
+    <br>
+    <h2>
+    <hr>
+    <h1>VARIOUS E-SPORTS COMPETITION</h1>
+    <hr>
+    <hr>
+ 
+    </div>
+    
+  </div>
+  <div class="frame">
+  <iframe width="700" height="500" src="https://www.youtube.com/embed/N7DlCZlPpbU" title="PUBG GLOBAL CHAMPIONSHIP WINNER GEN.G - FINAL GAME - Pio, Loki, Esth3r & Taemin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="500" src="https://www.youtube.com/embed/eUfDCcxPxBY" title="Champs Final | @Toronto Ultra vs @Atlanta FaZe  | Championship Weekend | Day 4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<!----footer------>
+<div class="parent">
+  <div class="child">
+    <div class="row">
+      <div class="col-1">
+        <h2>
+          Developed by:
+
+        </h2>
+        <h1>
+          Prince Singh
+        </h1>
+        <br>
+        <h1>Namitha Nagireddy</h1>
+        <br>
+        <h1>Fazlur Rehman</h1>
+      
+      </div>
+      <div class="col-2">
+        <h3>
+          Contact us:
+        </h3>
+        <i>esportsindia2k22@gmail.com</i>
+      </div>
+      
+    </div>
+  </div>
+</div>
+</div>
+</body>
+</html>
